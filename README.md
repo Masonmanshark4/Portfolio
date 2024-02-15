@@ -10,7 +10,7 @@
 
 ## Description
 This project is a accumulation of my abilities and knowledge to which I put into practice via this website. It is a standard HTML formated with CSS for styling and made live curtesy of GitHub pages. It is to display nessacary info for employers or potential coworker in order to decide weather to hier me or what kind of workload I can handle. Here is a Preview before launch version 0.0.1: 
-![Pre-launch Preview]()
+![Pre-launch Preview](Portfolio-pre-launch.png)
 
 ## Introduction
 The portfolio of Mason Carr is an ongoing project meant to display all of the knowledge and skills that were aquired during my journey throught the developing codespace. This project started whislt I was a student at the Ohio State Coding Bootcamp. The project itself has a breif description about myself and my cababilities currently, my resume and projects, as well as direct lines to contact me. This project is meant to evolve as my own skills improve and I continue to learn new ways to make it a better display of my skills. The individuals this project is marketed for is potential employers and potential coworkers, with this they willbe able to have a more acurate evaluation of my abilities to decide weateher to hier me or what kind of work load to asign me.
