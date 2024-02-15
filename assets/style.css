@@ -112,6 +112,12 @@ p {
 }
 
 #about img {
+    max-width: 100%;
     width: 200px;
-    height: 200px;
+    height: auto;
+}
+
+.portfolio-item img {
+    max-width: 100%;
+    height: auto;
 }
