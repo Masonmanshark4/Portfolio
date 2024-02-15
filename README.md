@@ -1,4 +1,4 @@
-# Portfolio of Mson Carr
+# Portfolio of Mason Carr
 
 ## Table of Contents
 [Description](#description)
